@@ -11,12 +11,11 @@ HLR_6.0 |
 
 
 ## LOW LEVEL REQUIREMENTS
-LLR| DESCRIPTION
----|-----------------------
-   |
-   |
-   |
-   |
-   |
-   |
-   
+LLR     | DESCRIPTION
+--------|-----------------------
+LLR_1.0 |
+LLR_2.0 |
+LLR_3.0 |
+LLR_4.0 |
+LLR_5.0 |
+LLR_6.0 |
