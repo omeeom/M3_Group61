@@ -2,8 +2,8 @@
 HLR     | DESCRIPTION
 --------|-----------------------
 HLR_1.0 |It shall remotely lock and unlock the automobile.
-HLR_2.0 |
-HLR_3.0 |
+HLR_2.0 |Transmit-Recieve Range shall be wide.
+HLR_3.0 |It shall have two way communication.
 HLR_4.0 |
 HLR_5.0 |
 
@@ -14,7 +14,7 @@ HLR_5.0 |
 LLR     | DESCRIPTION
 --------|-----------------------
 LLR_1.0 |
-LLR_2.0 |
-LLR_3.0 |
+LLR_2.0 |Cost shall be minimum.
+LLR_3.0 |Battery life shall be good.
 LLR_4.0 |
 LLR_5.0 |
